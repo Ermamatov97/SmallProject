@@ -1,0 +1,275 @@
+@media only screen and (max-width: 560px) {
+    .container {
+        width: 90%;
+    }
+
+    .carusel .carousel__item {
+        margin: 0 0 0 7.2rem;
+    }
+
+    .navbar__logo {
+        margin-left: 0;
+    }
+
+    .navbar__button {
+        margin-left: -1.2rem;
+    }
+}
+
+@media only screen and (max-width: 535px) {
+    /* Header */
+    .navbar__logo-img {
+        width: 30px;
+        margin-right: 0.7rem;
+    }
+
+    .navbar__logo {
+        margin-left: 0;
+    }
+
+    .navbar__logo-text {
+        font-size: 1rem;
+    }
+    
+    .toggle-button {
+        top: 25px;
+    }
+    /* /Header */
+    
+    .carusel .carousel__item {
+        margin: 0 0 0 6.5rem;
+    }
+
+    /* Footer */
+    .footer__logo-box {
+        width: 55%;
+    }
+
+    .footer__logo {
+        width: 30px;
+    }
+
+    .footer__information {
+        width: 30%;
+    }
+
+    .footer__menu {
+        width: 30%;
+    }
+
+    .footer__link {
+        width: 30%;
+    }
+
+    .footer__about {
+        width: 30%;
+    }
+    /* Footer */
+}
+
+@media only screen and (max-width: 515px) {
+    .carusel .carousel__item {
+        margin: 0 0 0 6rem;
+    }
+
+    .navbar__logo {
+        margin-left: 0;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .carusel .carousel__item {
+        margin: 0 0 0 5.4rem;
+    }
+
+    .navbar__logo {
+        margin-left: 0;
+    }
+
+    .navbar__button {
+        margin-left: -1.4rem;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .carusel .carousel__item {
+        margin: 0 0 0 5rem;
+    }
+
+    .navbar__logo {
+        margin-left: 0;
+    }
+}
+
+@media only screen and (max-width: 465px) {
+    .carusel .carousel__item {
+        margin: 0 0 0 4.4rem;
+    }
+
+    .navbar__logo {
+        margin-left: 0;
+    }
+
+     /* Footer */
+     .footer__logo-box {
+        width: 90%;
+    }
+
+    .footer__logo {
+        width: 30px;
+    }
+
+    .footer__information {
+        width: 50%;
+    }
+
+    .footer__menu {
+        width: 50%;
+    }
+
+    .footer__link {
+        width: 50%;
+    }
+
+    .footer__about {
+        width: 50%;
+    }
+    /* Footer */
+}
+
+@media only screen and (max-width: 450px) {
+    .carusel .carousel__item {
+        margin: 0 0 0 3.6rem;
+    }
+
+    .navbar__logo {
+        margin-left: 0;
+    }
+
+    .navbar__button {
+        margin-left: -1.6rem;
+    }
+}
+
+@media only screen and (max-width: 430px) {
+    .carusel .carousel__item {
+        margin: 0 0 0 3.2rem;
+    }
+
+    .navbar__logo {
+        margin-left: 0;
+    }
+}
+
+@media only screen and (max-width: 415px) {
+    .carusel .carousel__item {
+        margin: 0 0 0 2.8rem;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .carusel .carousel__item {
+        margin: 0 0 0 2.3rem;
+    }
+
+    .navbar__button {
+        margin-left: -1.7rem;
+    }
+
+    /* Common */
+    .button {
+        padding: 0.7rem 1.3rem;
+        font-size: 0.7rem;
+    }
+    
+    .sub-text {
+        font-size: 0.8rem;
+        line-height: 22px;
+    }
+    
+    .section-title {
+        font-size: 2rem;
+        line-height: 2.5rem;
+    }    
+    /* Common */
+
+    .testimonial-span {
+        margin-bottom: 0.8rem;
+    }
+}
+
+@media only screen and (max-width: 390px) {
+    .carusel .carousel__item {
+        margin: 0 0 0 2rem;
+    }
+
+    .carusel .carousel__item div {
+        margin-bottom: 1.5rem;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .carusel .carousel__item {
+        margin: 0 0 0 1.6rem;
+    }
+
+    .navbar__logo {
+        margin-left: 0;
+    }
+
+    .main__partners {
+        padding: 2rem 0;
+    }
+
+    .main__partner {
+        margin-bottom: 25px;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    .carusel .carousel__item {
+        margin: 0 0 0 1.3rem;
+    }
+}
+
+@media only screen and (max-width: 355px) {
+    .carusel .carousel__item {
+        margin: 0 0 0 1.1rem;
+    }
+}
+
+@media only screen and (max-width: 350px) {
+    .carusel .carousel__item {
+        margin: 0 0 0 1.8rem;
+        width: 290px;
+        padding: 1.2rem 1rem;
+    }
+}
+
+@media only screen and (max-width: 335px) {
+    .carusel .carousel__item {
+        margin: 0 0 0 1rem;
+    }
+
+    /* Footer */
+      .footer__logo-box {
+        width: 90%;
+    }
+
+    .footer__information {
+        width: 100%;
+    }
+
+    .footer__menu {
+        width: 100%;
+    }
+
+    .footer__link {
+        width: 100%;
+    }
+
+    .footer__about {
+        width: 100%;
+    }
+    /* Footer */
+}
